@@ -1,17 +1,17 @@
 /// Initialize th Game
 
-width = 10;
-height = 14;
+width = 5;
+height = 5;
 
-offset = 32;
-xStrat = 16;
-yStart = 116;
+offset = 128;
+xStrat = 64;
+yStart = 64;
 
 for (var i = 0; i < width; i++) {
 	for (var j = 0; j < height; j++) {
 		xPos = offset * i + xStrat;
 		yPos = offset * j + yStart;
-		instance_create_layer(xPos, yPos, 0, o_BackgroundTile);
-		instance_create_layer(xPos, yPos, 0, o_Dots);
+		instance_create_layer(xPos, yPos, 0, o_BackgroundTile128);
+		instance_create_layer(xPos, yPos, 0, o_Rhombus);
 	}
 }

@@ -77,6 +77,44 @@
             }
         },
         {
+            "Key": "0fed47bf-6a52-4355-a870-2cde01f6b61b",
+            "Value": {
+                "id": "530ad9e6-54f7-44f0-ab85-7f03bd3e1e30",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_BasckroundTile128\/s_BasckroundTile128.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "13d9afc5-a93e-421d-a3f7-2fd2d5732c56",
+            "Value": {
+                "id": "4f83946f-76f7-4b8e-9157-e6670d836bac",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_Rhombus\/o_Rhombus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1c1a75b5-abfd-4efb-855d-79a6158afe25",
             "Value": {
                 "id": "9e37691b-aaf0-4bbb-be83-8e5f7bf5ff86",
@@ -172,6 +210,25 @@
             }
         },
         {
+            "Key": "4ee98871-4c53-4669-b634-813e14bd15fa",
+            "Value": {
+                "id": "5301f54d-2683-467c-82c1-b49495f442be",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_BackgroundTile128\/o_BackgroundTile128.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4fa3d5bc-5d06-4575-b971-956f83c9a1d1",
             "Value": {
                 "id": "346b43b1-8668-431c-821d-5552702aca1a",
@@ -188,6 +245,25 @@
                 ],
                 "resourcePath": "views\/4fa3d5bc-5d06-4575-b971-956f83c9a1d1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "518b00ae-673b-4f67-9860-6a32a6b5bb8a",
+            "Value": {
+                "id": "2bb47572-74d3-44a6-b538-499ef536977c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_Rhombus\/s_Rhombus.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
