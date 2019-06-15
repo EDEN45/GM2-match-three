@@ -1,14 +1,17 @@
 /// @description Initialize Variables
-
+randomize();
 image_speed = 0;
-image_index = random(5);
+image_index = irandom(5);
 depth = - y;
 
 width = 128;
 height = 128;
 
-column = (x - 64)/width;
-row = (y - 64)/height;
+column = (x - 64)/height;
+row = (y - 64)/width;
+previousColumn = column;
+previousRow = row;
+
 
 targetX = x;
 targetY = y;

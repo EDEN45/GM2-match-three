@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Set position
 
 isControling = true;
 firstTouchPostionX = mouse_x;

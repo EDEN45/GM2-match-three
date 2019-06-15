@@ -1,4 +1,11 @@
-/// Initialize th Game
+/// @description Initialize th Game
+
+STATE_FILL = "fill";
+STATE_WAIT = "wait";
+STATE_DESTROY = "destroy";
+STATE_REFILL = "refill";
+
+state = STATE_WAIT;
 
 width = 5;
 height = 5;
@@ -15,3 +22,4 @@ for (var i = 0; i < width; i++) {
 		instance_create_layer(xPos, yPos, 0, o_Rhombus);
 	}
 }
+
